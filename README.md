@@ -10,3 +10,9 @@ The MongoDB Limits: https://docs.mongodb.com/manual/reference/limits/
 The MongoDB Data Types: https://docs.mongodb.com/manual/reference/bson-types/
 
 More on Schema Validation: https://docs.mongodb.com/manual/core/schema-validation/
+
+More Details about Config Files: https://docs.mongodb.com/manual/reference/configuration-options/
+
+More Details about the Shell (mongo) Options: https://docs.mongodb.com/manual/reference/program/mongo/
+
+More Details about the Server (mongod) Options: https://docs.mongodb.com/manual/reference/program/mongod/
