@@ -20,3 +20,13 @@ More Details about the Server (mongod) Options: https://docs.mongodb.com/manual/
 The MongoDB Compass Docs: https://docs.mongodb.com/compass/master/install/
 
 Only available in the Enterprise Edition => Exploring Schemas in Compass: https://docs.mongodb.com/compass/master/schema/
+
+nsertOne(): https://docs.mongodb.com/manual/reference/method/db.collection.insertOne/
+
+insertMany(): https://docs.mongodb.com/manual/reference/method/db.collection.insertMany/
+
+Atomicity: https://docs.mongodb.com/manual/core/write-operations-atomicity/#atomicity
+
+Write Concern: https://docs.mongodb.com/manual/reference/write-concern/
+
+Using mongoimport: https://docs.mongodb.com/manual/reference/program/mongoimport/index.html
