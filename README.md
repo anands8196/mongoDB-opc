@@ -16,3 +16,7 @@ More Details about Config Files: https://docs.mongodb.com/manual/reference/confi
 More Details about the Shell (mongo) Options: https://docs.mongodb.com/manual/reference/program/mongo/
 
 More Details about the Server (mongod) Options: https://docs.mongodb.com/manual/reference/program/mongod/
+
+The MongoDB Compass Docs: https://docs.mongodb.com/compass/master/install/
+
+Only available in the Enterprise Edition => Exploring Schemas in Compass: https://docs.mongodb.com/compass/master/schema/
