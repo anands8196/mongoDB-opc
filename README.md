@@ -40,3 +40,7 @@ Query Operator Reference: https://docs.mongodb.com/manual/reference/operator/que
 Official Document Updating Docs: https://docs.mongodb.com/manual/tutorial/update-documents/
 
 Official Document Deletion Docs: https://docs.mongodb.com/manual/tutorial/remove-documents/
+
+Official Geospatial Docs: https://docs.mongodb.com/manual/geospatial-queries/
+
+Geospatial Query Operators: https://docs.mongodb.com/manual/reference/operator/query-geospatial/
