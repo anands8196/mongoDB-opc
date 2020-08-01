@@ -38,3 +38,5 @@ More on Cursors: https://docs.mongodb.com/manual/tutorial/iterate-a-cursor/
 Query Operator Reference: https://docs.mongodb.com/manual/reference/operator/query/
 
 Official Document Updating Docs: https://docs.mongodb.com/manual/tutorial/update-documents/
+
+Official Document Deletion Docs: https://docs.mongodb.com/manual/tutorial/remove-documents/
