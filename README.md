@@ -44,3 +44,7 @@ Official Document Deletion Docs: https://docs.mongodb.com/manual/tutorial/remove
 Official Geospatial Docs: https://docs.mongodb.com/manual/geospatial-queries/
 
 Geospatial Query Operators: https://docs.mongodb.com/manual/reference/operator/query-geospatial/
+
+Official Docs on Replica Sets: https://docs.mongodb.com/manual/replication/
+
+Official Docs on Sharding: https://docs.mongodb.com/manual/sharding/
